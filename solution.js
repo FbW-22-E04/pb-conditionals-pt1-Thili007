@@ -57,7 +57,7 @@ if (intTotal >= 50 && intTotal <= 80) {
 // Exercise - 06
 
 let int4 = 10;
-let int5 = 30;
+let int5 = 5;
 
 let intTotal2 = int4 + int5;
 
