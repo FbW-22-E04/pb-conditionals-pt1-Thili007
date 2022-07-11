@@ -86,9 +86,9 @@ if (int4 % 7 === 0 || int4 % 11 === 0 || int5 % 7 === 0 || int5 % 11 === 0) {
 // Exercise - 09
 
 if (int4 === int5) {
-  console.log(int4 * 3, int5 * 3);
+  console.log(int4 + int5 * 3);
 } else {
-  console.log(int4, int5);
+  console.log(int4 + int5);
 }
 
 // Exercise - 10
