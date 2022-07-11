@@ -4,20 +4,20 @@ var int1 = 30;
 var int2 = 20;
 
 if (int1 >= 50 && int1 <= 99) {
-  console.log("this is answer for 1.1", true);
+  console.log(true);
 } else if (int2 >= 50 && int2 <= 99) {
-  console.log("this is answer for 1.1", true);
+  console.log(true);
 } else {
-  console.log("this is answer for 1.1", false);
+  console.log(false);
 }
 
 // Exercise - 02
 
 var int3 = 90;
 if (int3 >= 50 && int3 <= 99) {
-  console.log("this is answer for 1.2", true);
+  console.log(true);
 } else {
-  console.log("this is answer for 1.2", false);
+  console.log(false);
 }
 
 // Exercise - 03
